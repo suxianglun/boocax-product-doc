@@ -30,6 +30,8 @@ branches:
   only:
     - master
 
+    
+
 env:
   global:
     - REF=github.com:suxianglun/boocax-product-doc.git # 设置 github 地址
